@@ -1,5 +1,10 @@
 {
 
+  "elm-community/maybe-extra" = {
+    sha256 = "185jy9jxx3bqf0xl3rmdxfqqmxzcr084llf32glr6hgl5agshywk";
+    version = "5.3.0";
+  };
+
   "elm-community/result-extra" = {
     sha256 = "0bwiqjq4cgffbk8a6nqk1k4yhv1hwg96m2fhn5zbniwsm13lrm5m";
     version = "2.4.0";
