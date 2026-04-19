@@ -1,7 +1,9 @@
 # why?
 
-copying raw json into Elm tests as strings is easy, but the string mangling
-rapidly becomes painful.
+hard to sort a subset of Elm declarations in IntelliJ.
+
+now, you can copy the declarations, get them sorted, and paste them back into
+the file. 
 
 
 # usage
